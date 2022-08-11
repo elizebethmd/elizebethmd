@@ -47,8 +47,6 @@
       alt="csharp" width="40" height="40" /> <img
       src="https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg"
       alt="typescript" width="40" height="40" /> 
-      
-      </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> </a> </p>
 
 <br>
 
