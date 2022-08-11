@@ -49,5 +49,5 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elizebethmd&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="elizebethmd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=elizebethmd&theme=soft-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="elizebethmd" /></p>
       
