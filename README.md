@@ -43,10 +43,8 @@
       alt="mysql" width="40" height="40" /> </a> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />  <img
-      src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg"
-      alt="csharp" width="40" height="40" /> <img
-      src="https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg"
-      alt="typescript" width="40" height="40" /> 
+      src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
+      alt="Vscode" width="40" height="40" />
 
 <br>
 
