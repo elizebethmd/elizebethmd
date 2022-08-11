@@ -15,4 +15,4 @@ Web Technologies: HTML, CSS, ASP.NET
 QUALIFICATION:
 Bachelor of Engineering in Computer Science
 
-http://github-readme-streak-stats.herokuapp.com/?user=elizebethmd&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elizebethmde&theme=dark&background=000000)](https://git.io/streak-stats)
